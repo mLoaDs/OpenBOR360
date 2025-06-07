@@ -5,7 +5,9 @@ This is an OpenBOR port for the Xbox360, possible thanks to the hard work of
 the OpenBOR and Senile teams, the SDLx libs by lantus and the XBDM plugin
 by Natelx.
 
-![Unbenannt](https://github.com/user-attachments/assets/964d11e3-51c9-4730-853b-ccfb71e0febc)
+<p align="center">
+  <img width="400" height="175" src="https://github.com/user-attachments/assets/964d11e3-51c9-4730-853b-ccfb71e0febc">
+</p>
 
 [OpenBOR360 v3.0 Download](https://github.com/mLoaDs/OpenBOR360/releases/tag/OpenBORv3.0)
 
