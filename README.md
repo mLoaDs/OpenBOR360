@@ -11,7 +11,6 @@ by Natelx.
 
 [OpenBOR360 v3.0 Download](https://github.com/mLoaDs/OpenBOR360/releases/tag/OpenBORv3.0)
 
-[OpenBOR Tools](https://github.com/mLoaDs/OpenBOR360/releases/tag/OpenBORv3.0)
 
 KNOWN BUGS
 ----------
