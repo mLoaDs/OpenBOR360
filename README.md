@@ -7,19 +7,22 @@ by Natelx.
 
 ![Unbenannt](https://github.com/user-attachments/assets/964d11e3-51c9-4730-853b-ccfb71e0febc)
 
+[OpenBOR360 v3.0 Download](https://github.com/mLoaDs/OpenBOR360/releases/tag/OpenBORv3.0)
 
+[OpenBOR Tools](https://github.com/mLoaDs/OpenBOR360/releases/tag/OpenBORv3.0)
 
 KNOWN BUGS
 ----------
-
-- The BGM player doesn't work so, for now, is disabled.
-- Ogg music isn't played (works but doesn't sound right) so also is disabled.
+> [!IMPORTANT]
+> The BGM player doesn't work so, for now, is disabled.
+> Ogg music isn't played (works but doesn't sound right) so also is disabled.
   The only workaround is to convert the .ogg files to .bor: Unpack the pak,
   convert the oggs to wav, then use wav2bor with those wavs, rename the final
   files to .ogg and repack the pak.
   Anyway, only a few paks use ogg music.
-  
-  In the download area you will find the OBOR tools for packing and unpacking the .pak files and converters for the .ogg files
+
+> [!NOTE]
+> In the download area you will find the OBOR tools for packing and unpacking the .pak files and converters for the .ogg files
 
 CONTROLS
 --------
@@ -51,12 +54,13 @@ All controls can be remapped using the "Control Options" menu.
 
 SCREEN
 ------
+> [!NOTE]
+> If you are using the 720p videomode, to get a correct aspect ratio for those
+> 4:3 paks, select the menu "Video Options" - "Aspect Ratio" and set it to 4:3.
 
-If you are using the 720p videomode, to get a correct aspect ratio for those
-4:3 paks, select the menu "Video Options" - "Aspect Ratio" and set it to 4:3.
-
-The xResizer.xex included allows to resize the screen for those with overscan problems.
-It generates an xbox.cfg with these default settings:
+> [!TIP]
+> The xResizer.xex included allows to resize the screen for those with overscan problems.
+>  It generates an xbox.cfg with these default settings:
 
 xpos=0
 ypos=0
