@@ -9,8 +9,9 @@ by Natelx.
   <img width="400" height="175" src="https://github.com/user-attachments/assets/964d11e3-51c9-4730-853b-ccfb71e0febc">
 </p>
 
-[OpenBOR360 v3.0 Download](https://github.com/mLoaDs/OpenBOR360/releases/tag/OpenBORv3.0)
-
+<p align="center">
+    <a href="https://github.com/mLoaDs/OpenBOR360/releases/tag/OpenBORv3.0" class="btn btn-primary">OpenBOR360 v3.0 Download</a>
+</p>
 
 KNOWN BUGS
 ----------
