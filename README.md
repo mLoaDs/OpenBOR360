@@ -66,8 +66,8 @@ SCREEN
 > The xResizer.xex included allows to resize the screen for those with overscan problems.
 >
 > It generates an xbox.cfg with these default settings:
-
-xpos=0
-ypos=0
-xstretch=0
-ystretch=0
+>
+> xpos=0
+> ypos=0
+> xstretch=0
+> ystretch=0
