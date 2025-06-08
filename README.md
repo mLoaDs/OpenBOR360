@@ -25,6 +25,8 @@ KNOWN BUGS
 
 > [!NOTE]
 > In the download area you will find the OBOR tools for packing and unpacking the .pak files and converters for the .ogg files
+>
+> Instructions on how to do this can be found here [How to unpack and package OpenBOR .pak games](https://openborgames.com/how-to-unpack-and-package-openbor-pak-games#more-1375)
 
 CONTROLS
 --------
